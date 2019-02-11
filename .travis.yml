@@ -45,4 +45,4 @@ before_install:
 #Source: https://medium.com/@oldergod/constraint-layout-and-circleci-travis-d50342696d2
 
 script:
-  - ./gradlew clean build
+  - "./gradlew clean build"
